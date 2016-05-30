@@ -6,6 +6,7 @@ var str = "Hello, playground"
 
 
 func getChange(change: Double) -> String {
+    let dollar = 1.00
     let quarter = 0.25
     let dime = 0.10
     let nickle = 0.05
